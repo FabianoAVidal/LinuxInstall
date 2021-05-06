@@ -6,8 +6,8 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 
 #Git
 sudo apt-get install git
-sudo git config --global user.name "Fabiano"
-sudo git config --global user.email "fabiano.a.vidal@hotmail.com"
+git config --global user.name "Fabiano"
+git config --global user.email "fabiano.a.vidal@hotmail.com"
 
 #Snap
 sudo rm /etc/apt/preferences.d/nosnap.pref
